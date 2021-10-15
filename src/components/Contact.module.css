@@ -1,0 +1,15 @@
+.links {
+color: white;
+}
+
+.links:hover{
+    color: rgb(69, 233, 178);
+}
+
+.textBox{
+    width: 35vw;
+    color: rgb(180, 179, 179);
+    text-align: center;
+    margin: 0 auto;
+    font-size: large;
+}

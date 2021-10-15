@@ -1,0 +1,46 @@
+.landing_background {
+    background-image: url("https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80");
+    font-family: 'Numans', sans-serif;
+    background-size: cover;
+    /* width: '100vw';
+    height: '100vh'; */
+    background-position: center;
+    min-width: 100vw;
+    min-height: 70vh;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.overlay {
+    min-height: 70vh;
+    min-width: 100vw;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  .themeColor{
+      color:rgb(69, 233, 178)
+  }
+
+  .textColor {
+      color: rgb(180, 179, 179);
+  }
+
+  .textBox{
+      max-width: 30vw;
+      font-size: medium;
+  }
+
+  .introCard{
+      max-width: 50%;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
