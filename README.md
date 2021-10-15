@@ -1,4 +1,4 @@
-# Link to portfolio <a href="https://portfolio-3bd83.firebaseapp.com/" target="_blank">URL<a/>
+# Link to portfolio <a href="https://portfolio-3bd83.firebaseapp.com/" target="_blank">URL</a>
 
 
 # Getting Started with Create React App
