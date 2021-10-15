@@ -1,4 +1,4 @@
-#View the portfolio by following the URL (https://portfolio-3bd83.firebaseapp.com/)
+# View the portfolio by following the URL (https://portfolio-3bd83.firebaseapp.com/)
 
 
 # Getting Started with Create React App
