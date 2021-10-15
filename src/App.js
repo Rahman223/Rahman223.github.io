@@ -1,7 +1,6 @@
 import './App.css';
 import React from "react";
 import LazyShow from './components/LazyShow';
-import ExampleComp from './components/ExampleComponent';
 import LandingComponent from './components/LandingComponent';
 import AboutMeComponent from './components/AboutMe';
 import SkillsComponent from './components/Skills';
