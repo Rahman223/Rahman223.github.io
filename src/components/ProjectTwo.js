@@ -8,7 +8,7 @@ function ProjectTwoComponent(){
             <div className={`${ProjectTwoCSS.card}`}> 
                 <div className={`${ProjectTwoCSS.box}`}>
                 <a href="https://github.com/Rahman223/ToolsOverflow" target="_blank" className={`${ProjectTwoCSS.links} btn`} style={{paddingTop: "0", paddingBottom: "0", paddingLeft:"0"}}><i className="fab fa-github" style={{fontSize :"xx-large"}}></i> </a>
-                <a href="" target="_blank" className={`${ProjectTwoCSS.links} btn`} style={{marginRight: "auto", paddingTop: "0", paddingBottom: "0"}}><i className="fas fa-external-link-alt" style={{fontSize :"xx-large"}}></i></a>
+                <a href="https://tools-overflow.herokuapp.com/" target="_blank" className={`${ProjectTwoCSS.links} btn`} style={{marginRight: "auto", paddingTop: "0", paddingBottom: "0"}}><i className="fas fa-external-link-alt" style={{fontSize :"xx-large"}}></i></a>
                     
                     <img  className={`${ProjectTwoCSS.projectImg}`} src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png" alt="project 2"></img>
                     
