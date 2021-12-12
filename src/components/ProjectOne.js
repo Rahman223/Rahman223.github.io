@@ -12,8 +12,8 @@ function ProjectOneComponent(){
                 <div className={`${ProjectOneCSS.box}`}>
                     <img  className={`${ProjectOneCSS.projectImg}`} src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png" alt="project 1"></img>
                     
-                    <a href="https://github.com/ElianFelix/travelers-log" target="_blank" className={`${ProjectOneCSS.links} btn`} style={{marginLeft: "auto", paddingTop: "0", paddingBottom: "0"}}><i className="fab fa-github" style={{fontSize :"xx-large"}}></i> </a>
-                    <a href="https://travelers-log.herokuapp.com/" target="_blank" className={`${ProjectOneCSS.links} btn`} style={{paddingTop: "0", paddingBottom: "0", paddingRight:"0"}}><i className="fas fa-external-link-alt" style={{fontSize :"xx-large"}}></i></a>
+                    <a href="https://github.com/ElianFelix/travelers-log" rel="noreferrer" target="_blank" className={`${ProjectOneCSS.links} btn`} style={{marginLeft: "auto", paddingTop: "0", paddingBottom: "0"}}><i className="fab fa-github" style={{fontSize :"xx-large"}}></i> </a>
+                    <a href="https://travelers-log.herokuapp.com/" rel="noreferrer" target="_blank" className={`${ProjectOneCSS.links} btn`} style={{paddingTop: "0", paddingBottom: "0", paddingRight:"0"}}><i className="fas fa-external-link-alt" style={{fontSize :"xx-large"}}></i></a>
 
                 </div>
                 <div className={`${ProjectOneCSS.box} ${ProjectOneCSS.topStack}`}>
