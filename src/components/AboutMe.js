@@ -19,7 +19,9 @@ function AboutMeComponent (){
                 </div>
                 <div className={`col-md-4  ${AboutMeCSS.myImgDiv} `}>
                     {/* <div className={`${AboutMeCSS.myImgDiv}`}> */}
-                        <img className={`${AboutMeCSS.myImg} `} src="https://media-exp1.licdn.com/dms/image/C4D03AQFgQeC9MdRqCg/profile-displayphoto-shrink_800_800/0/1594058653965?e=1639612800&v=beta&t=Ssa2E7Ae95YlOPK-JIhR-T_04241sS1ppX-wxPM-_zo" alt="my face"></img>
+                        {/* <img className={`${AboutMeCSS.myImg} `} src="https://media-exp1.licdn.com/dms/image/C4D03AQFgQeC9MdRqCg/profile-displayphoto-shrink_800_800/0/1594058653965?e=1639612800&v=beta&t=Ssa2E7Ae95YlOPK-JIhR-T_04241sS1ppX-wxPM-_zo" alt="my face"></img> */}
+                        
+                        <img className={`${AboutMeCSS.myImg} `} src="https://firebasestorage.googleapis.com/v0/b/toolsoverflow-a1fb3.appspot.com/o/images%2FIMG_0867.JPG?alt=media&token=02c8c0a6-6e6d-40c3-8cbf-bed4ce61a537" alt="my face"></img>
                     {/* </div> */}
                 </div>
 
