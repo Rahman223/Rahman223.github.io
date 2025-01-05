@@ -12,7 +12,7 @@ function AboutMeComponent (){
                     <p className={`${AboutMeCSS.textColor} ${AboutMeCSS.textBox}`}>
                         Hello! My name is Shafiullah Rahman. I have joined Mastercard as a Software Engineer after completing my undergraduate degree. I studied Computer Science and Mathematics at Brooklyn College, City University of New York (CUNY).
                         I have always had passion for Mathematics and problem solving from an early age, and I have been introduced to the world of Computer Science in freshman 
-                        year of college. I had gotten busy in the realm of full-stack web development during college years and internships; working on 
+                        year of college. I had gotten busy in the realm of full-stack development during college years and internships; working on 
                         full-stack projects.  My productive hobby is taking on challenging problems and coming up with good solutions (primarily CS or Math related but not limited to). 
                         My chill hobbies are: sightseeing/hiking (natural landscape), exercising, blacksmithing, and video gaming. 
                     </p>
