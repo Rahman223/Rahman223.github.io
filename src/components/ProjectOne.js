@@ -5,7 +5,7 @@ function ProjectOneComponent(){
     return (
 
         <div className={`container-fluid`} style={{marginTop:"9vh"}}>
-            <h1 style={{textAlign: "center", color: "white", marginBottom: "8vh" }}>Projects</h1>
+            <h1 style={{textAlign: "center", color: "white", marginBottom: "8vh" }}>Personal Projects</h1>
             
 
             <div className={`${ProjectOneCSS.card}`}> 

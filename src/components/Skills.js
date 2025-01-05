@@ -34,6 +34,11 @@ function SkillsComponent(){
                     <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{width: "95%", color: "black", fontWeight:"bold"}}>95%</div>
                 </div>
 
+                <h4>PL/SQL</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
                 <h4>C++</h4>
                 <div className="progress mb-3">
                     <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
@@ -64,6 +69,36 @@ function SkillsComponent(){
 
                 <h2 className="mb-4">Technologies</h2>
 
+                <h4>Spring Boot</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
+                <h4>Docker</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
+                <h4>Jenkins</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
+                <h4>AWS/GCP</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
+                <h4>Flyway</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
+                <h4>OracleDB</h4>
+                <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
+                </div>
+
                 <h4>React.js</h4>
                 <div className="progress mb-3">
                     <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
@@ -74,42 +109,19 @@ function SkillsComponent(){
                     <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
                 </div>
 
-                <h4>Express.js</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
-                </div>
-
-                <h4>Sequelize.js</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
-                </div>
-
-                <h4>Google Maps API</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", color: "black", fontWeight:"bold"}}>90%</div>
-                </div>
-
-                <h4>Passport.js</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", color: "black", fontWeight:"bold"}}>80%</div>
-                </div>
-
-                <h4>Jest.js</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", color: "black", fontWeight:"bold"}}>80%</div>
-                </div>
-
-                <h4>Firebase Storage</h4>
-                <div className="progress mb-3">
-                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", color: "black", fontWeight:"bold"}}>80%</div>
-                </div>
-
                 <h4>Git/GitHub</h4>
                 <div className="progress mb-3">
+                    <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style={{width: "85%", color: "black", fontWeight:"bold"}}>85%</div>
+                </div>
+
+                <h4>Linux</h4>
+                <div className="progress mb-3">
                     <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", color: "black", fontWeight:"bold"}}>80%</div>
                 </div>
 
                 </div>
+
+                
 
             
         </div>

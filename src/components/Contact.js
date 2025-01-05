@@ -5,7 +5,7 @@ function ContactComponent(){
     return(
         <div className="container-fluid">
             <h1 style={{color: "white", textAlign: "center", marginBottom:"25px", fontSize: "xxx-large"}}>Get to Know Me</h1>
-            <p className={`${ContactCSS.textBox}`}>I am graduating soon and I am open to opportunities. feel free to reach out on Linked In, my inbox is always open
+            <p className={`${ContactCSS.textBox}`}>I am always open to new challenges and opportunities. Feel free to reach out on Linked In, my inbox is always open
                whether you have a question or just want to talk.
             </p>
 
