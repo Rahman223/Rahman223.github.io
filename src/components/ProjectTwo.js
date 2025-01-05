@@ -15,7 +15,7 @@ function ProjectTwoComponent(){
                     
                 </div>
                 <div className={`${ProjectTwoCSS.box} ${ProjectTwoCSS.topStack}`}>
-                    <p style={{ textAlign: "end", height: "auto", color:"rgb(69, 233, 178)", fontSize:"medium", margin: "0"}}>Full-stack Project (In-Progress)</p>
+                    <p style={{ textAlign: "end", height: "auto", color:"rgb(69, 233, 178)", fontSize:"medium", margin: "0"}}>Full-stack Project</p>
                     <h3 style={{textAlign: "end", height: "auto", color:"white", marginBottom: "15px"}}>ToolsOverflow</h3>
                         
                     
